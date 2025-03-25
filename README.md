@@ -1,5 +1,4 @@
 # ClusteringKmeans
-# README - Clustering dengan K-Means
 
 ## Deskripsi Proyek
 PT 456 adalah platform yang menyediakan penjualan voucher digital dan gift card dalam satu platform. Saat ini PT 456 mulai beralih ke bisnis digital. PT 456 menyediakan voucher, gift card, reward untuk memberikan kemudahan kepada pelanggan dalam berbelanja.
